@@ -39,3 +39,7 @@ Credits:
 
 	- HTML tag was updated in index.html to contain 'dir' and 'lang' attributes for this web page.
 	- meta tags were added to the <head> of the index.html page, to contain author information, description and keywords.
+
+[25/12/2023] Shadi Barghash:
+
+	- FontAwesome updated to (free) version 5.15.4 (LTS)
