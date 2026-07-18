@@ -43,3 +43,7 @@ Credits:
 [25/12/2023] Shadi Barghash:
 
 	- FontAwesome updated to (free) version 5.15.4 (LTS)
+
+[18/07/2026] Shadi Barghash:
+
+	- FontAwesome updated to (free) version 6.7.2 (LTS)
